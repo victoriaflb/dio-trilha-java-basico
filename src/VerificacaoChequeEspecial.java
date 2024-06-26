@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class VerificacaoChequeEspecial{
-    /** 
+    /** <h1> DIO </h1>
    * <h1> Verificador de Cheque Especial </h1>
    * Desafio de código 4 / 5  da DIO - Verificação de Cheque Especial
    *@author victoriaflb
