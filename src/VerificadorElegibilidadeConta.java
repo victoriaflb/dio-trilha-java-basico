@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class VerificadorElegibilidadeConta {
-   /** 
+   /**<p> Correto </p> 
    * <h1> Verificador de Idade para Conta Bancária </h1>
    * Desafio de código 3 / 5  da DIO - Verificação de Idade para Conta Bancária
    * @author victoriaflb
